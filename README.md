@@ -4,20 +4,20 @@
 
 ## Блок «Мануальное тестирование мобильных приложений»
 
-1.1. [Ручное тестирование мобильных приложений. Введение.]()
-  * [Условия задач]()
+1.1. [Ручное тестирование мобильных приложений. Введение.](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection1/lection1.md)
+  * [Условия задач](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection1/README.md)
     * [Ссылки]()
        * [software-testing](https://www.software-testing.ru/images/stories/library/checklist-mobile-app-testen.pdf)
        * [habr.com](https://habr.com/ru/companies/mobileup/articles/336992/)
        * [qarocks](https://qarocks.ru/android-mobile-app-testing-checklist/)
-       * [Чек-лист]()
-    * [Shein]()
-    * [Stripe]()
+       * [Чек-лист](https://disk.yandex.ru/i/ETNdLYvCPVsk6Q)
+    * [Shein](https://disk.yandex.ru/i/pAZtRHzO6cOC3Q)
+    * [Stripe](https://disk.yandex.ru/i/19Q32nORtNqGaQ)
 
-1.2. [Тестирование iOS-приложений.]()
-  * [Условия задач]()
-     * []()
-     * []()
+1.2. [Тестирование iOS-приложений.](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection2/lection2.md)
+  * [Условия задач](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection2/README.md)
+     * [Игровое приложение](https://disk.yandex.ru/i/54P3Zc4zpmAB1g)
+     * [Фитнес приложение](https://disk.yandex.ru/i/RUp_pWx6mA-Ydg)
 
 1.3. [Тестирование Android-приложений.]()
   * [Условия задач]()
