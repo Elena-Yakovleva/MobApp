@@ -19,10 +19,11 @@
      * [Игровое приложение](https://disk.yandex.ru/i/54P3Zc4zpmAB1g)
      * [Фитнес приложение](https://disk.yandex.ru/i/RUp_pWx6mA-Ydg)
 
-1.3. [Тестирование Android-приложений.]()
-  * [Условия задач]()
-     * []()
-     * []()
+1.3. [Тестирование Android-приложений.](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection3/lection3.md)
+  * [Условия задач](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection3/README.md)
+     * [Геокешинг](https://disk.yandex.ru/i/7FZCLyvQQHoiMQ)
+     * [Чек-лист тестирования подписок](https://disk.yandex.ru/i/MY-frcRarTdbUA)
+     * [Меню разработчика](https://disk.yandex.ru/i/UOGB7mG1N0Oylw)
 
 1.4. [Виды тестирования в контексте мобильных устройств]()
   * [Условия задач]()
