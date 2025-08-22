@@ -25,10 +25,10 @@
      * [Чек-лист тестирования подписок](https://disk.yandex.ru/i/MY-frcRarTdbUA)
      * [Меню разработчика](https://disk.yandex.ru/i/UOGB7mG1N0Oylw)
 
-1.4. [Виды тестирования в контексте мобильных устройств]()
-  * [Условия задач]()
-     * []()
-     * []()
+1.4. [Виды тестирования в контексте мобильных устройств](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection4/lection4.md)
+  * [Условия задач](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection4/README.md)
+     * [Решение задач](https://disk.yandex.ru/i/DnJOzm-OHzvuvg)
+     
 
 1.5. [Выбор устройств для тестирования.]()
   * [Условия задач]()
