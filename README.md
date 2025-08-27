@@ -38,11 +38,12 @@
   - [Выбор устройств iOS](https://disk.yandex.ru/i/5aE6r4KnLATYCQ)
   - [Приложения](https://disk.yandex.ru/d/DPCbHuFrRnRLvA)
 
-1.6. [Инструменты для ручного тестирования мобильных приложений.]()
+1.6. [Инструменты для ручного тестирования мобильных приложений.](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection6/lection6.md)
 
-- [Условия задач]()
-  - []()
-  - []()
+- [Условия задач](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection6/README.md)
+  - [Adb](https://disk.yandex.ru/i/Fq5y4juopti5_Q)
+  - [Monkey](https://disk.yandex.ru/i/CZz-WyEatPbd_g)
+  - [Crash logs](https://disk.yandex.ru/i/BQJLwz2J49yQIQ)
 
 1.7. [Снифферинг. Настройка и возможности.]()
 
