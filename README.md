@@ -45,19 +45,19 @@
   - [Monkey](https://disk.yandex.ru/i/CZz-WyEatPbd_g)
   - [Crash logs](https://disk.yandex.ru/i/BQJLwz2J49yQIQ)
 
-1.7. [Снифферинг. Настройка и возможности.]()
+1.7. [Снифферинг. Настройка и возможности.](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection7/lection7.md)
 
-- [Условия задач]()
-  - []()
-  - []()
+- [Условия задач](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection7/README.md)
+  - [Задача 1 - не сделано]()
+  - [Задача 2 - не сделано]()
 
 ## Блок «Автоматизация тестирования мобильных приложений»
 
 2.1. [Автоматизация тестирования мобильных приложений.]()
 
-- [Условия задач]()
-  - []()
-  - []()
+- [Условия задач](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection8/README.md)
+  - [Android Studio](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection8/loginApp/app/src/androidTest/java/com/netology/mqa_lesson_2_1/ui/login/LoginActivityTest.java)
+  - [Экран с вкладками](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection8/tabApp/app/src/androidTest/java/com/netology/tabbedapplication/MainActivityTest.java)
 
 2.2. [UIAutomator. Автоматизация тестирования Android.]()
 
