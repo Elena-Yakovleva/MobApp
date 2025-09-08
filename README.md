@@ -53,7 +53,7 @@
 
 ## Блок «Автоматизация тестирования мобильных приложений»
 
-2.1. [Автоматизация тестирования мобильных приложений.]()
+2.1. [Автоматизация тестирования мобильных приложений.](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection8/lection8.md)
 
 - [Условия задач](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection8/README.md)
   - [Android Studio](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection8/loginApp/app/src/androidTest/java/com/netology/mqa_lesson_2_1/ui/login/LoginActivityTest.java)

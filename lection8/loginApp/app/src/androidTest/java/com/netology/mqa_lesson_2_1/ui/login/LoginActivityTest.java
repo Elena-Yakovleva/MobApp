@@ -33,7 +33,6 @@ public class LoginActivityTest {
     String typePassword = "123456";
     String typeLoginResult = "Welcome !test@mail.ru";
     String typeTextButton = "Sign in or register";
-    String typeTextButton2 = "Sign in or registerr";
 
 
     @Test
