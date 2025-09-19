@@ -59,29 +59,25 @@
   - [Android Studio](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection8/loginApp/app/src/androidTest/java/com/netology/mqa_lesson_2_1/ui/login/LoginActivityTest.java)
   - [Экран с вкладками](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection8/tabApp/app/src/androidTest/java/com/netology/tabbedapplication/MainActivityTest.java)
 
-2.2. [UIAutomator. Автоматизация тестирования Android.]()
+2.2. [UIAutomator. Автоматизация тестирования Android.](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection9/lection9.md)
 
-- [Условия задач]()
-  - []()
-  - []()
+- [Условия задач](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection9/README.md)
+  - [UIAutomator](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection9/UIAutomator/app/src/androidTest/kotlin/ru/netology/testing/uiautomator/ChangeTextTest.kt)
 
-2.3. [XCUITest. Автоматизация тестирования iOS.]()
+2.3. [XCUITest. Автоматизация тестирования iOS.](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection10/lection10.md)
 
-- [Условия задач]()
-  - []()
-  - []()
 
-2.4. [Appium. Кроссплатформенная мобильная автоматизация тестирования.]()
+2.4. [Appium. Кроссплатформенная мобильная автоматизация тестирования.](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection11/lection11.md)
 
-- [Условия задач]()
-  - []()
-  - []()
+- [Условия задач](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection11/README.md)
+  - [Calc](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection11/task/src/test/java/activity/ActivityTest.java)
+  - [Activity](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection11/task/src/test/java/calc/SamplePageObjectTest.java)
 
-2.5. [Espresso. Автоматизация тестирования Android.]()
+2.5. [Espresso. Автоматизация тестирования Android.](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection12/lection12.md)
 
-- [Условия задач]()
-  - []()
-  - []()
+- [Условия задач](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection12/README.md)
+  - [simpleAppForEspresso](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection12/task/app/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/MainActivityTest.java)
+
 
 2.6. [Espresso. Продвинутая автоматизация тестирования Android.]()
 
