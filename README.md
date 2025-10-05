@@ -79,11 +79,11 @@
   - [simpleAppForEspresso](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection12/task/app/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/MainActivityTest.java)
 
 
-2.6. [Espresso. Продвинутая автоматизация тестирования Android.]()
+2.6. [Espresso. Продвинутая автоматизация тестирования Android.](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection13/lection13.md)
 
-- [Условия задач]()
-  - []()
-  - []()
+- [Условия задач](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection13/README.md)
+  - [Intents](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection13/app/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/IntentsTest.java)
+  - [Idling](https://github.com/Elena-Yakovleva/MobApp/blob/main/lection13/app/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/IdlingTest.java)
 
 ## Сертификат об окончании курса
 
